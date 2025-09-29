@@ -1,4 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+## Name: MOHAMMAD SHHAIL
+## Reg No: 212223240044
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
